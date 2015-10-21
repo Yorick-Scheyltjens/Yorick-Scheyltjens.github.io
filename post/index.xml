@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on Site van Yorick Scheyltjens </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/post/</link>
+    <link>http://yorick-scheyltjens.github.io/post/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Taak - IT autobiography</title>
-      <link>http://localhost:1313/post/taak1/</link>
+      <link>http://yorick-scheyltjens.github.io/post/taak1/</link>
       <pubDate>Wed, 21 Oct 2015 13:52:46 CEST</pubDate>
       
-      <guid>http://localhost:1313/post/taak1/</guid>
+      <guid>http://yorick-scheyltjens.github.io/post/taak1/</guid>
       <description>&lt;p&gt;My name is Yorick Scheyltjens. I am 17 years old. For the moment, I am studying IT managment at Immaculata Institute. Except my activities with IT, I read a lot of books and I play the trumpet. Previous year, I have participated in the Flemish Programming Competition. I concluded at the 17th place. Next year, I am going to participate again. I hope that I will end on a higher place in the position table.&lt;/p&gt;
 
 &lt;p&gt;I started programming in 2008 with my dad. I was eight years old. At first I only programmed in HTLM5. In the beginning of 2014, I taught myself the computer languages C++.  In 2015, the languages C#, Jquery, Bootstrap and Markdown were added. At the moment, I am teaching myself the languages PHP and Python. To learn to program, I watch tutorials on YouTube and read tutorials on W3school.com, PHP.net, dotnetperls.com. When I write a code, I save it so I can use it again later.&lt;/p&gt;

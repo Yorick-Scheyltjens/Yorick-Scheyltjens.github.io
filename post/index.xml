@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on Site van Yorick Scheyltjens </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/post/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Wed, 21 Oct 2015 13:52:46 CEST</updated>
+    
+    <item>
+      <title>Taak - IT autobiography</title>
+      <link>http://localhost:1313/post/taak1/</link>
+      <pubDate>Wed, 21 Oct 2015 13:52:46 CEST</pubDate>
+      
+      <guid>http://localhost:1313/post/taak1/</guid>
+      <description>&lt;p&gt;My name is Yorick Scheyltjens. I am 17 years old. For the moment, I am studying IT managment at Immaculata Institute. Except my activities with IT, I read a lot of books and I play the trumpet. Previous year, I have participated in the Flemish Programming Competition. I concluded at the 17th place. Next year, I am going to participate again. I hope that I will end on a higher place in the position table.&lt;/p&gt;
+
+&lt;p&gt;I started programming in 2008 with my dad. I was eight years old. At first I only programmed in HTLM5. In the beginning of 2014, I taught myself the computer languages C++.  In 2015, the languages C#, Jquery, Bootstrap and Markdown were added. At the moment, I am teaching myself the languages PHP and Python. To learn to program, I watch tutorials on YouTube and read tutorials on W3school.com, PHP.net, dotnetperls.com. When I write a code, I save it so I can use it again later.&lt;/p&gt;
+
+&lt;p&gt;It means a lot to me because it will be my future. I work on my website every day with my dad. He takes care of the layout and I take care of the dynamic part of the website. The fascinating thing about programming is when your code doesn&amp;acute;t work, you have to think and work together to find out what&amp;acute;s wrong with your code. Every day I become better and better because every day I have to write new lines of code. I don&amp;acute;t see myself as an expert but I know I am one of the best programmers in my class. Except programming, I keep myself busy with gaming, assembling and disassembling computers. When a computer of a friend is broken, he or she always asks me first if I can solve the problem. I am not a real gamer because I only play games for an hour a day.&lt;/p&gt;
+
+&lt;p&gt;My future prospect is to find a job in the IT sector. But first, I have to study. Next year I will start my education &amp;#8220;Electronics-ICT&amp;#8221; at Artesis Plantijn in Antwerp. It is an education that will take three years. After that, maybe I am going to study &amp;#8220;Robotics&amp;#8221; at the University of Louvain because I am very interested in robots. In my spare time I program robots with the Raspberry Pi. That is very fascinating and I learn a lot from doing that.&lt;/p&gt;
+
+&lt;p&gt;Like I said, IT means a lot to me because it will be my future. It becomes an important part of my life. Every single day, I explore IT, especially programming in different computer languages, assembling computers, disassembling computers and programming robots in Python with the Raspberry Pi.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

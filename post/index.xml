@@ -26,6 +26,21 @@
 &lt;p&gt;Like I said, IT means a lot to me because it will be my future. It becomes an important part of my life. Every single day, I explore IT, especially programming in different computer languages, assembling computers, disassembling computers and programming robots in Python with the Raspberry Pi.&lt;/p&gt;
 </description>
     </item>
+	
+	<item>
+      <title>Taak - WebsiteWorkflow</title>
+      <link>/post/taak2/</link>
+      <pubDate>Wed, 22 Oct 2015 13:52:46 CEST</pubDate>
+      
+      <guid>/post/taak2/</guid>
+      <description>Gohugo is een heel handige manier om je eigen site of blog te maken. Je kan met behulp van de hugo tool nieuwe posts toevoegen. Deze posts zijn geschreven in de taal Markdown. Markdown is een zeer handige website waarbij je op een heel efficiënte tekst kan invoegen met een in de css gekozen layout. Als je posts toevoegd, worden deze automatisch geïntegreerd in je website met de datum van van je post. Het nadeel van Gohugo is dat er te weinig documentatie is hoe je moet beginnen met Gohugo. Dit kan wel liggen aan het feit dat Gohugo niet zo bekent is en er dus minder mensen moeite doen om er een tutorial of dergelijke van te maken. Ik ben begonnen met het importeren van een theme en deze dan vervolgens aan te passen. Echt problemen heb ik niet ondervonden met hugo, behalve toen mijn layout van mijn website verdwenen was. Ik had het probleem opgelost door de baseurl aan te passen van localhost:1313 naar yorick-scheyltjens.github.io.
+
+Wordpress vind ik eerlijke gezegd beter dan hugo. Hier is meer informatie van te vinden en veel tutorials op Youtube. Als ik een Wordpress website wil maken, verzorg ik de layout met Artisteer. Alles posts op een Wordpress-website staan opgeslagen in een database. Dit is bij Hugo niet het geval. Verder is je website vrijwel onmiddellijk aangepast wat bij een hugo website niet is. Je moet het eerst pushen.
+
+Als ik bezig was met Gohugo, heb ik enkel gebruik gemaakt van 2 mappen. In de content map staan al je geplaatste berichten in markdown-bestanden. Alles wat online komt, staat in je public-map.
+
+</description>
+    </item>
     
   </channel>
 </rss>
